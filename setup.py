@@ -14,7 +14,6 @@ setup(
     description="Sistema Bancário Allan Reis",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/AllanRodrigo/bootcamp-eng-dados-desafio-python/"
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',

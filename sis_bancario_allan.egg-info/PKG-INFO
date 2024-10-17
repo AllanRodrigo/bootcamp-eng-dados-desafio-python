@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: sis-bancario-allan
+Version: 0.0.1
+Summary: Sistema Bancário Allan Reis
+Author: Allan_Reis
+Author-email: my_email
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+# package_name
+
+DescriÃ§Ã£o do Sistema BancÃ¡rio de Allan Reis
+	- 
+	-
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+
+```bash
+pip install sis-bancario-allan
+```
+## Author
+Allan Reis
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
